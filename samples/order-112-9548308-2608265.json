@@ -1,0 +1,46 @@
+{
+  "orderNumber": "112-9548308-2608265",
+  "currency": "CAD",
+  "from": {
+    "name": "KapscoMoto Warehouse",
+    "company": "KapscoMoto",
+    "address1": "410 Finley Ave",
+    "city": "Ajax",
+    "state": "ON",
+    "postalCode": "L1S 2E3",
+    "country": "CA",
+    "phone": "9055550100"
+  },
+  "to": {
+    "name": "Paul Wagner",
+    "address1": "135 SMARTVIEW LN",
+    "city": "ABINGDON",
+    "state": "VA",
+    "postalCode": "24210",
+    "country": "US",
+    "phone": "+1 213-442-1463",
+    "is_residential": true
+  },
+  "packages": [
+    {
+      "name": "Bubble Mailer #0",
+      "weightLbs": 0.4,
+      "lengthIn": 9,
+      "widthIn": 6,
+      "heightIn": 1,
+      "package_contents": "Aluminum Motorcycle Mirror Adapters "
+    }
+  ],
+  "items": [
+    {
+      "title": "Chrome Mirror Relocation Extension Adapter Kit Compatible with Harley Davidson Motorcycles",
+      "sku": "KM018-C",
+      "quantity": 1,
+      "value": 6.08,
+      "currency": "USD",
+      "hs_code": "8714100050",
+      "country_of_origin": "CA",
+      "customs_description": "Aluminum Motorcycle Mirror Adapters "
+    }
+  ]
+}

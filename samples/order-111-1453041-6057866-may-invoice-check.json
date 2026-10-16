@@ -1,0 +1,47 @@
+{
+  "orderNumber": "111-1453041-6057866",
+  "currency": "CAD",
+  "region": "ON",
+  "from": {
+    "name": "KapscoMoto Warehouse",
+    "company": "KapscoMoto",
+    "address1": "410 Finley Ave",
+    "city": "Ajax",
+    "state": "ON",
+    "postalCode": "L1S 2E3",
+    "country": "CA",
+    "phone": "9055550100"
+  },
+  "to": {
+    "name": "Invoice Check",
+    "address1": "1 Harborside Dr",
+    "city": "Boston",
+    "state": "MA",
+    "postalCode": "02128",
+    "country": "US",
+    "phone": "6175550100",
+    "is_residential": true
+  },
+  "packages": [
+    {
+      "name": "SMI3000",
+      "weightLbs": 11.3,
+      "lengthIn": 21.5,
+      "widthIn": 18.25,
+      "heightIn": 4.25,
+      "package_contents": "Iron Motorcycle Lift Stands"
+    }
+  ],
+  "items": [
+    {
+      "title": "Iron Motorcycle Lift Stands",
+      "sku": "SMI3000",
+      "quantity": 1,
+      "value": 10.08,
+      "currency": "USD",
+      "hs_code": "8425.49.00.00",
+      "country_of_origin": "CA",
+      "customs_description": "Iron Motorcycle Lift Stands"
+    }
+  ]
+}

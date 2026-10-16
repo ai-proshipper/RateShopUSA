@@ -1,0 +1,48 @@
+{
+  "orderNumber": "PROBE-NPTC-FIG008-1H",
+  "currency": "CAD",
+  "region": "ON",
+  "from": {
+    "name": "KapscoMoto Warehouse",
+    "company": "KapscoMoto",
+    "address1": "410 Finley Ave",
+    "city": "Ajax",
+    "state": "ON",
+    "postalCode": "L1S 2E3",
+    "country": "CA",
+    "phone": "9055550100"
+  },
+  "to": {
+    "name": "Shane Keith",
+    "address1": "273 Crosby Cemetery Rd",
+    "city": "Mason",
+    "state": "TX",
+    "postalCode": "76856",
+    "country": "US",
+    "phone": "3253474500",
+    "email": "rateshop@example.com",
+    "is_residential": true
+  },
+  "packages": [
+    {
+      "name": "Engine Cylinder Compression Gauge Kit",
+      "weightLbs": 2,
+      "lengthIn": 12.25,
+      "widthIn": 8.25,
+      "heightIn": 2.5,
+      "package_contents": "ABS Cylinder Compression Tester"
+    }
+  ],
+  "items": [
+    {
+      "title": "Engine Cylinder Compression Gauge Kit",
+      "sku": "NPTC-FIG008-1H",
+      "quantity": 1,
+      "value": 5.808,
+      "currency": "USD",
+      "hs_code": "9026208000",
+      "country_of_origin": "CA",
+      "customs_description": "ABS Cylinder Compression Tester"
+    }
+  ]
+}

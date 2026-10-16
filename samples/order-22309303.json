@@ -1,0 +1,59 @@
+{
+  "orderNumber": "22309303",
+  "currency": "CAD",
+  "region": "ON",
+  "from": {
+    "name": "KapscoMoto Warehouse",
+    "company": "KapscoMoto",
+    "address1": "410 Finley Ave",
+    "city": "Ajax",
+    "state": "ON",
+    "postalCode": "L1S 2E3",
+    "country": "CA",
+    "phone": "9055550100"
+  },
+  "to": {
+    "name": "Tito Santiago",
+    "address1": "9900 SPAIN RD NE",
+    "address2": "APT N2073",
+    "city": "ALBUQUERQUE",
+    "state": "NM",
+    "postalCode": "87111",
+    "country": "US",
+    "phone": "5055154656",
+    "is_residential": true
+  },
+  "packages": [
+    {
+      "name": "Package 1",
+      "weightLbs": 3,
+      "lengthIn": 26,
+      "widthIn": 6.75,
+      "heightIn": 6.25,
+      "package_contents": "Handlebar",
+      "dimSource": "shiphero_label"
+    }
+  ],
+  "items": [
+    {
+      "title": "Kawasaki VN Vulcan Classic Drifter 800",
+      "sku": "JBM-505-C-V43",
+      "quantity": 1,
+      "value": 47.99,
+      "currency": "USD",
+      "hs_code": "8714100050",
+      "country_of_origin": "CA",
+      "customs_description": "Handlebar"
+    },
+    {
+      "title": "Handlebars - Chrome",
+      "sku": "JBM-505-C",
+      "quantity": 1,
+      "value": 9.2,
+      "currency": "USD",
+      "hs_code": "8714100050",
+      "country_of_origin": "CA",
+      "customs_description": "Handlebar"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "orderNumber": "111-1938114-1033044",
+  "currency": "CAD",
+  "from": {
+    "name": "KapscoMoto Warehouse",
+    "company": "KapscoMoto",
+    "address1": "410 Finley Ave",
+    "city": "Ajax",
+    "state": "ON",
+    "postalCode": "L1S 2E3",
+    "country": "CA",
+    "phone": "9055550100"
+  },
+  "to": {
+    "name": "Demetrio Garcia",
+    "address1": "407 LA BOCA ST",
+    "city": "SAN JACINTO",
+    "state": "CA",
+    "postalCode": "92582",
+    "country": "US",
+    "phone": "+1 602-671-6610",
+    "is_residential": true
+  },
+  "packages": [
+    {
+      "name": "Package 1",
+      "weightLbs": 20,
+      "lengthIn": 20,
+      "widthIn": 20,
+      "heightIn": 9.25,
+      "package_contents": "Polyester Travel Trailer Cover"
+    }
+  ],
+  "items": [
+    {
+      "title": "3rd Gen R-Pod Cover, Anti-Tear 7 Layer APEX Fabric, Fits R-Pod Travel Trailer, RV and Motorhome, Includes Propane Cover, Tire Covers, Ladder Cover and Windproof Ropes, Fits Up to 18' Trailers",
+      "sku": "POD180N",
+      "quantity": 1,
+      "value": 79,
+      "currency": "USD",
+      "hs_code": "6307909891",
+      "country_of_origin": "CN",
+      "customs_description": "Polyester Travel Trailer Cover"
+    },
+    {
+      "title": "[1]POD180",
+      "sku": "POD180",
+      "quantity": 1,
+      "value": 40.64,
+      "currency": "USD",
+      "hs_code": "63079098",
+      "country_of_origin": "CN",
+      "customs_description": "Travel Trailer Cover"
+    }
+  ]
+}

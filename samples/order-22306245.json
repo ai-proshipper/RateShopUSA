@@ -1,0 +1,48 @@
+{
+  "orderNumber": "22306245",
+  "currency": "CAD",
+  "region": "ON",
+  "from": {
+    "name": "KapscoMoto Warehouse",
+    "company": "KapscoMoto",
+    "address1": "410 Finley Ave",
+    "city": "Ajax",
+    "state": "ON",
+    "postalCode": "L1S 2E3",
+    "country": "CA",
+    "phone": "9055550100"
+  },
+  "to": {
+    "name": "david jennings",
+    "address1": "5404 Colonial Oaks Dr",
+    "city": "Apex",
+    "state": "NC",
+    "postalCode": "27539",
+    "country": "US",
+    "phone": "+1919-422-2055",
+    "is_residential": true
+  },
+  "packages": [
+    {
+      "name": "Package 1",
+      "weightLbs": 32,
+      "lengthIn": 21,
+      "widthIn": 19.5,
+      "heightIn": 10.5,
+      "package_contents": "Travel Trailer Cover",
+      "dimSource": "shiphero_label"
+    }
+  ],
+  "items": [
+    {
+      "title": "Travel Trailer Cover",
+      "sku": "CMTT38",
+      "quantity": 1,
+      "value": 81.68,
+      "currency": "USD",
+      "hs_code": "6307909990",
+      "country_of_origin": "CN",
+      "customs_description": "Travel Trailer Cover"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "orderNumber": "22308660",
+  "currency": "CAD",
+  "from": {
+    "name": "KapscoMoto Warehouse",
+    "company": "KapscoMoto",
+    "address1": "410 Finley Ave",
+    "city": "Ajax",
+    "state": "ON",
+    "postalCode": "L1S 2E3",
+    "country": "CA",
+    "phone": "9055550100"
+  },
+  "to": {
+    "name": "Joann Fagerstrom",
+    "address1": "PO BOX 62065",
+    "address2": "Rounia Loop ST",
+    "city": "GOLOVIN",
+    "state": "AK",
+    "postalCode": "99762",
+    "country": "US",
+    "phone": "+1907-739-1199",
+    "is_residential": true
+  },
+  "packages": [
+    {
+      "name": "Bimini B30-B33",
+      "weightLbs": 17,
+      "lengthIn": 58.5,
+      "widthIn": 13.5,
+      "heightIn": 4,
+      "package_contents": "Polyester Boat Bimini Top Canvas"
+    }
+  ],
+  "items": [
+    {
+      "title": "[1]B33",
+      "sku": "B33",
+      "quantity": 1,
+      "value": 24.84,
+      "currency": "USD",
+      "hs_code": "6306120000",
+      "country_of_origin": "CA",
+      "customs_description": "Polyester Boat Bimini Top Canvas"
+    },
+    {
+      "title": "High-Quality Boat Bimini Top Canvas Replacement, 600D Canopy, Sun Shade Kit",
+      "sku": "T33C",
+      "quantity": 1,
+      "value": 8.84,
+      "currency": "USD",
+      "hs_code": "6307909891",
+      "country_of_origin": "CA",
+      "customs_description": "Polyester Boat Bimini Top Canvas"
+    }
+  ]
+}

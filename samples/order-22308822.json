@@ -1,0 +1,46 @@
+{
+  "orderNumber": "22308822",
+  "currency": "CAD",
+  "from": {
+    "name": "KapscoMoto Warehouse",
+    "company": "KapscoMoto",
+    "address1": "410 Finley Ave",
+    "city": "Ajax",
+    "state": "ON",
+    "postalCode": "L1S 2E3",
+    "country": "CA",
+    "phone": "9055550100"
+  },
+  "to": {
+    "name": "Matt Joiner",
+    "address1": "3022 TOP HAND CT",
+    "city": "CHICO",
+    "state": "CA",
+    "postalCode": "95973",
+    "country": "US",
+    "phone": "5305192349",
+    "is_residential": true
+  },
+  "packages": [
+    {
+      "name": "Bimini B40-B45",
+      "weightLbs": 22.45,
+      "lengthIn": 72,
+      "widthIn": 13.5,
+      "heightIn": 4,
+      "package_contents": "Polyester Boat Bimini Top Canvas"
+    }
+  ],
+  "items": [
+    {
+      "title": "4 Bow Bimini Tops Full Kits with Solid Sidewalls",
+      "sku": "B43+T43A+A4",
+      "quantity": 1,
+      "value": 99.99,
+      "currency": "USD",
+      "hs_code": "6306120000",
+      "country_of_origin": "CA",
+      "customs_description": "Polyester Boat Bimini Top Canvas"
+    }
+  ]
+}

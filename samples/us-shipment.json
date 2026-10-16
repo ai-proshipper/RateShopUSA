@@ -1,0 +1,47 @@
+{
+  "orderNumber": "PROBE-STALLION-US-SMI6010",
+  "currency": "CAD",
+  "region": "ON",
+  "from": {
+    "name": "KapscoMoto Warehouse",
+    "company": "KapscoMoto",
+    "address1": "410 Finley Ave",
+    "city": "Ajax",
+    "state": "ON",
+    "postalCode": "L1S 2E3",
+    "country": "CA",
+    "phone": "9055550100"
+  },
+  "to": {
+    "name": "Jane Smith",
+    "address1": "350 5th Ave",
+    "city": "New York",
+    "state": "NY",
+    "postalCode": "10118",
+    "country": "US",
+    "phone": "2125550100",
+    "is_residential": true
+  },
+  "packages": [
+    {
+      "name": "Iron Motorcycle Lift Stands",
+      "weightLbs": 19,
+      "lengthIn": 21,
+      "widthIn": 18.25,
+      "heightIn": 4,
+      "package_contents": "Iron Motorcycle Lift Stands"
+    }
+  ],
+  "items": [
+    {
+      "title": "Iron Motorcycle Lift Stands",
+      "sku": "SMI6010",
+      "quantity": 1,
+      "value": 18.88,
+      "currency": "USD",
+      "hs_code": "8425490000",
+      "country_of_origin": "CA",
+      "customs_description": "Iron Motorcycle Lift Stands"
+    }
+  ]
+}

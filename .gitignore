@@ -1,0 +1,7 @@
+.env
+node_modules/
+*.log
+.DS_Store
+data/
+public/labels/
+scripts/_tmp_*

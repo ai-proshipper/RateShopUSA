@@ -1,0 +1,56 @@
+{
+  "orderNumber": "KNX51773A",
+  "currency": "CAD",
+  "from": {
+    "name": "KapscoMoto Warehouse",
+    "company": "KapscoMoto",
+    "address1": "410 Finley Ave",
+    "city": "Ajax",
+    "state": "ON",
+    "postalCode": "L1S 2E3",
+    "country": "CA",
+    "phone": "9055550100"
+  },
+  "to": {
+    "name": "Scott Ward",
+    "address1": "106 N 2nd St",
+    "city": "Piedmont",
+    "state": "SD",
+    "postalCode": "57769",
+    "country": "US",
+    "phone": "6054316285",
+    "is_residential": true
+  },
+  "packages": [
+    {
+      "name": "Bimini B40-B45",
+      "weightLbs": 30.55,
+      "lengthIn": 72,
+      "widthIn": 13.5,
+      "heightIn": 4,
+      "package_contents": "Aluminum Boat Bimini Top Frames"
+    }
+  ],
+  "items": [
+    {
+      "title": "[1]B45",
+      "sku": "B45",
+      "quantity": 1,
+      "currency": "USD",
+      "hs_code": "7616999090",
+      "country_of_origin": "CA",
+      "customs_description": "Aluminum Boat Bimini Top Frames",
+      "value": 29.27
+    },
+    {
+      "title": "KNOX Bimini TPU Enclosure - 4 Bow",
+      "sku": "U45B",
+      "quantity": 1,
+      "currency": "USD",
+      "hs_code": "6307909891",
+      "country_of_origin": "CN",
+      "customs_description": "Polyester Bimini Top Enclosure Canvas",
+      "value": 29.7
+    }
+  ]
+}

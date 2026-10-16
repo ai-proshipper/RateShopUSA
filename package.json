@@ -1,0 +1,25 @@
+{
+  "name": "rateshop-usa",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "probe:stallion-quote": "node scripts/probe-stallion-quote.mjs",
+    "probe:ups-quote": "node scripts/probe-ups-quote.mjs",
+    "probe:canada-post-quote": "node scripts/probe-canada-post-quote.mjs",
+    "probe:canada-post-label": "node scripts/probe-canada-post-label.mjs",
+    "probe:ups-label": "node scripts/probe-ups-label.mjs",
+    "probe:stallion-label": "node scripts/probe-stallion-label.mjs",
+    "test": "node scripts/test-webhook-dedup.mjs && node scripts/test-customs-docs.mjs && node scripts/test-usa-customs-attachment.mjs && node scripts/test-shiphero-auth.mjs && node scripts/test-stallion-schedule.mjs && node scripts/test-canada-post-us-limits.mjs && node scripts/test-po-box.mjs"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.22.2",
+    "undici": "^7.29.0"
+  }
+}

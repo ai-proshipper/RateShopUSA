@@ -1,0 +1,46 @@
+{
+  "orderNumber": "112-2268262-6822657",
+  "currency": "CAD",
+  "from": {
+    "name": "KapscoMoto Warehouse",
+    "company": "KapscoMoto",
+    "address1": "410 Finley Ave",
+    "city": "Ajax",
+    "state": "ON",
+    "postalCode": "L1S 2E3",
+    "country": "CA",
+    "phone": "9055550100"
+  },
+  "to": {
+    "name": "Ian west",
+    "address1": "410 RIVER RD",
+    "city": "ROME",
+    "state": "NY",
+    "postalCode": "13440",
+    "country": "US",
+    "phone": "+1 412-532-4665",
+    "is_residential": true
+  },
+  "packages": [
+    {
+      "name": "Package 1",
+      "weightLbs": 11,
+      "lengthIn": 31.25,
+      "widthIn": 23,
+      "heightIn": 7,
+      "package_contents": "ABS Plastic Motorcycle Windshield Fairing"
+    }
+  ],
+  "items": [
+    {
+      "title": "Krator Detachable Quick-Release Windshield Windscreen, Smoke, Compatible with Harley Davidson Road King 1994-2022 Models",
+      "sku": "JBM-6020-S",
+      "quantity": 1,
+      "value": 23.2,
+      "currency": "USD",
+      "hs_code": "8714100050",
+      "country_of_origin": "CA",
+      "customs_description": "ABS Plastic Motorcycle Windshield Fairing"
+    }
+  ]
+}

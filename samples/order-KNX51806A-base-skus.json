@@ -1,0 +1,56 @@
+{
+  "orderNumber": "KNX51806A",
+  "currency": "CAD",
+  "from": {
+    "name": "KapscoMoto Warehouse",
+    "company": "KapscoMoto",
+    "address1": "410 Finley Ave",
+    "city": "Ajax",
+    "state": "ON",
+    "postalCode": "L1S 2E3",
+    "country": "CA",
+    "phone": "9055550100"
+  },
+  "to": {
+    "name": "Joe Francis",
+    "address1": "Po box190",
+    "city": "Weston",
+    "state": "CO",
+    "postalCode": "81091",
+    "country": "US",
+    "phone": "+18062368428",
+    "is_residential": true
+  },
+  "packages": [
+    {
+      "name": "Bimini B30-B33",
+      "weightLbs": 16.35,
+      "lengthIn": 58.5,
+      "widthIn": 13.5,
+      "heightIn": 4,
+      "package_contents": "Polyester Boat Bimini Top Canvas"
+    }
+  ],
+  "items": [
+    {
+      "title": "[1]B31",
+      "sku": "B31",
+      "quantity": 1,
+      "value": 24.23,
+      "currency": "USD",
+      "hs_code": "6306120000",
+      "country_of_origin": "CA",
+      "customs_description": "Polyester Boat Bimini Top Canvas"
+    },
+    {
+      "title": "Canvas for 3 Bow Bimini Top",
+      "sku": "T31Z",
+      "quantity": 1,
+      "value": 7.944,
+      "currency": "USD",
+      "hs_code": "6307909891",
+      "country_of_origin": "CA",
+      "customs_description": "Polyester Boat Bimini Top Canvas"
+    }
+  ]
+}

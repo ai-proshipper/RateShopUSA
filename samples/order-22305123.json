@@ -1,0 +1,57 @@
+{
+  "orderNumber": "22305123",
+  "currency": "CAD",
+  "region": "ON",
+  "from": {
+    "name": "KapscoMoto Warehouse",
+    "company": "KapscoMoto",
+    "address1": "410 Finley Ave",
+    "city": "Ajax",
+    "state": "ON",
+    "postalCode": "L1S 2E3",
+    "country": "CA",
+    "phone": "9055550100"
+  },
+  "to": {
+    "name": "Edwin Dodds",
+    "address1": "5104 MEADOW LN",
+    "city": "DICKINSON",
+    "state": "TX",
+    "postalCode": "77539",
+    "country": "US",
+    "phone": "+1832-425-2418",
+    "is_residential": true
+  },
+  "packages": [
+    {
+      "name": "Package 1",
+      "weightLbs": 11,
+      "lengthIn": 33,
+      "widthIn": 21.5,
+      "heightIn": 7.5,
+      "package_contents": "Engine Guards"
+    }
+  ],
+  "items": [
+    {
+      "title": "Chrome Engine Guard Highway Crash Bar For 2005-2009 Suzuki C90T Boulevard",
+      "sku": "CEG2011-V03",
+      "quantity": 1,
+      "value": 99.99,
+      "currency": "USD",
+      "hs_code": "8714100050",
+      "country_of_origin": "CA",
+      "customs_description": "Engine Guards"
+    },
+    {
+      "title": "Engine Guards",
+      "sku": "CEG2011",
+      "quantity": 1,
+      "value": 24.352,
+      "currency": "USD",
+      "hs_code": "8714100050",
+      "country_of_origin": "CA",
+      "customs_description": "Engine Guards"
+    }
+  ]
+}

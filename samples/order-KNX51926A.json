@@ -1,0 +1,46 @@
+{
+  "orderNumber": "KNX51926A",
+  "currency": "CAD",
+  "from": {
+    "name": "KapscoMoto Warehouse",
+    "company": "KapscoMoto",
+    "address1": "410 Finley Ave",
+    "city": "Ajax",
+    "state": "ON",
+    "postalCode": "L1S 2E3",
+    "country": "CA",
+    "phone": "9055550100"
+  },
+  "to": {
+    "name": "Peter Cross",
+    "address1": "171 Colony Dr",
+    "city": "Sierra Madre",
+    "state": "CA",
+    "postalCode": "91024",
+    "country": "US",
+    "phone": "+18187316990",
+    "is_residential": true
+  },
+  "packages": [
+    {
+      "name": "Package 1",
+      "weightLbs": 14,
+      "lengthIn": 20,
+      "widthIn": 20,
+      "heightIn": 9.75,
+      "package_contents": "Non-woven Fabric RV Camper Cover"
+    }
+  ],
+  "items": [
+    {
+      "title": "KNOX Truck Camper Cover - 5.5' - 8' Length",
+      "sku": "TCC12",
+      "quantity": 1,
+      "value": 24.08,
+      "currency": "USD",
+      "hs_code": "6307909891",
+      "country_of_origin": "CN",
+      "customs_description": "Non-woven Fabric RV Camper Cover"
+    }
+  ]
+}

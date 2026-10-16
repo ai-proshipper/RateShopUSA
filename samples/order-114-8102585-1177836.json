@@ -1,0 +1,46 @@
+{
+  "orderNumber": "114-8102585-1177836",
+  "currency": "CAD",
+  "from": {
+    "name": "KapscoMoto Warehouse",
+    "company": "KapscoMoto",
+    "address1": "410 Finley Ave",
+    "city": "Ajax",
+    "state": "ON",
+    "postalCode": "L1S 2E3",
+    "country": "CA",
+    "phone": "9055550100"
+  },
+  "to": {
+    "name": "Sean Blake",
+    "address1": "4044 ILEX CIR",
+    "city": "PANAMA CITY",
+    "state": "FL",
+    "postalCode": "32405",
+    "country": "US",
+    "phone": "+1 347-448-3190",
+    "is_residential": true
+  },
+  "packages": [
+    {
+      "name": "Package 1",
+      "weightLbs": 7,
+      "lengthIn": 44.5,
+      "widthIn": 6,
+      "heightIn": 3.25,
+      "package_contents": "Polyester Canvas Aluminum Frame Boat Top Extension "
+    }
+  ],
+  "items": [
+    {
+      "title": "Universal T-Top Shade Extension for Bimini Tops for Boats, Sun Shade Boat Canopy, Adjustable Telescopic Poles, Stainless Steel, Marine 900D Fadeproof Boat Cover, 67\" L x 67\" W, Light Gray",
+      "sku": "3EXSLV",
+      "quantity": 1,
+      "value": 16.576,
+      "currency": "USD",
+      "hs_code": "6307909891",
+      "country_of_origin": "CA",
+      "customs_description": "Polyester Canvas Aluminum Frame Boat Top Extension "
+    }
+  ]
+}

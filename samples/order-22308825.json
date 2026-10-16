@@ -1,0 +1,56 @@
+{
+  "orderNumber": "22308825",
+  "currency": "CAD",
+  "from": {
+    "name": "KapscoMoto Warehouse",
+    "company": "KapscoMoto",
+    "address1": "410 Finley Ave",
+    "city": "Ajax",
+    "state": "ON",
+    "postalCode": "L1S 2E3",
+    "country": "CA",
+    "phone": "9055550100"
+  },
+  "to": {
+    "name": "Nicole Cedeno",
+    "address1": "1554 W GRANGE AVE",
+    "city": "MILWAUKEE",
+    "state": "WI",
+    "postalCode": "53221",
+    "country": "US",
+    "phone": "+1920-791-1272",
+    "is_residential": true
+  },
+  "packages": [
+    {
+      "name": "Package 1",
+      "weightLbs": 17,
+      "lengthIn": 26,
+      "widthIn": 20,
+      "heightIn": 6,
+      "package_contents": "Lift Stands"
+    }
+  ],
+  "items": [
+    {
+      "title": "Venom Sport Bike Motorcycle Swingarm Spool Lift Stand (Front & Rear), Black",
+      "sku": "S6161-M03",
+      "quantity": 1,
+      "value": 99.99,
+      "currency": "USD",
+      "hs_code": "8425490000",
+      "country_of_origin": "CA",
+      "customs_description": "Lift Stands"
+    },
+    {
+      "title": "Lift Stands",
+      "sku": "S6161",
+      "quantity": 1,
+      "value": 41.56,
+      "currency": "USD",
+      "hs_code": "8425490000",
+      "country_of_origin": "CA",
+      "customs_description": "Iron Motorcycle Lift Stands"
+    }
+  ]
+}

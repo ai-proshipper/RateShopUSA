@@ -1,0 +1,46 @@
+{
+  "orderNumber": "112-1227685-9471418",
+  "currency": "CAD",
+  "from": {
+    "name": "KapscoMoto Warehouse",
+    "company": "KapscoMoto",
+    "address1": "410 Finley Ave",
+    "city": "Ajax",
+    "state": "ON",
+    "postalCode": "L1S 2E3",
+    "country": "CA",
+    "phone": "9055550100"
+  },
+  "to": {
+    "name": "Maggie Motz",
+    "address1": "203 OKABENA ST  146",
+    "city": "OKABENA",
+    "state": "MN",
+    "postalCode": "56161",
+    "country": "US",
+    "phone": "+1 347-448-3190",
+    "is_residential": true
+  },
+  "packages": [
+    {
+      "name": "JBM-6009/2021",
+      "weightLbs": 8,
+      "lengthIn": 20.5,
+      "widthIn": 15.5,
+      "heightIn": 11,
+      "package_contents": "ABS Plastic Motorcycle Windshield Fairing"
+    }
+  ],
+  "items": [
+    {
+      "title": "Krator Motorcycle Windshield Fairing, Wind Deflector, Motorcycle Accessories, Smoke Windscreen, Compatible with Harley Davidson Dyna, Super Glide T-Sport FXDXT, FXR & Softail FXBB/S, FLSB, FXLR/S",
+      "sku": "JBM-6009-S",
+      "quantity": 1,
+      "value": 18.4,
+      "currency": "USD",
+      "hs_code": "8714100050",
+      "country_of_origin": "CA",
+      "customs_description": "ABS Plastic Motorcycle Windshield Fairing"
+    }
+  ]
+}

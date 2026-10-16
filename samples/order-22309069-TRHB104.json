@@ -1,0 +1,46 @@
+{
+  "orderNumber": "22309069",
+  "currency": "CAD",
+  "from": {
+    "name": "KapscoMoto Warehouse",
+    "company": "KapscoMoto",
+    "address1": "410 Finley Ave",
+    "city": "Ajax",
+    "state": "ON",
+    "postalCode": "L1S 2E3",
+    "country": "CA",
+    "phone": "9055550100"
+  },
+  "to": {
+    "name": "raleigh mills",
+    "address1": "1447 AN COUNTY ROAD 412",
+    "city": "PALESTINE",
+    "state": "TX",
+    "postalCode": "75803",
+    "country": "US",
+    "phone": "9035196840",
+    "is_residential": true
+  },
+  "packages": [
+    {
+      "name": "Bubble Mailer #1",
+      "weightLbs": 1,
+      "lengthIn": 11,
+      "widthIn": 7,
+      "heightIn": 1,
+      "package_contents": "Rubber Aluminum Motorcycle Hand Grips"
+    }
+  ],
+  "items": [
+    {
+      "title": "Motorcycle Maltese Chrome Hand",
+      "sku": "TRHB104",
+      "quantity": 1,
+      "value": 3.76,
+      "currency": "USD",
+      "hs_code": "8714100050",
+      "country_of_origin": "CA",
+      "customs_description": "Rubber Aluminum Motorcycle Hand Grips"
+    }
+  ]
+}

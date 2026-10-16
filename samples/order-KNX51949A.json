@@ -1,0 +1,46 @@
+{
+  "orderNumber": "KNX51949A",
+  "currency": "CAD",
+  "from": {
+    "name": "KapscoMoto Warehouse",
+    "company": "KapscoMoto",
+    "address1": "410 Finley Ave",
+    "city": "Ajax",
+    "state": "ON",
+    "postalCode": "L1S 2E3",
+    "country": "CA",
+    "phone": "9055550100"
+  },
+  "to": {
+    "name": "Eric Burleson",
+    "address1": "34 Gloria Way",
+    "city": "Nebo",
+    "state": "NC",
+    "postalCode": "28761",
+    "country": "US",
+    "phone": "+18288037375",
+    "is_residential": true
+  },
+  "packages": [
+    {
+      "name": "Bimini B36+B46",
+      "weightLbs": 25.4,
+      "lengthIn": 74,
+      "widthIn": 13.5,
+      "heightIn": 4,
+      "package_contents": "KNOX 3 Bow Bimini Enclosure with Frame Kit - Charcoal Gray / 3-Bow 6'L x 46\"H x 79\"-84\"W"
+    }
+  ],
+  "items": [
+    {
+      "title": "KNOX 3 Bow Bimini Enclosure with Frame Kit - Charcoal Gray / 3-Bow 6'L x 46\"H x 79\"-84\"W",
+      "sku": "B34+U34A",
+      "quantity": 1,
+      "value": 53.288,
+      "currency": "USD",
+      "hs_code": "0",
+      "country_of_origin": "CN",
+      "customs_description": "KNOX 3 Bow Bimini Enclosure with Frame Kit - Charcoal Gray / 3-Bow 6'L x 46\"H x 79\"-84\"W"
+    }
+  ]
+}

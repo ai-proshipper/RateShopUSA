@@ -1,0 +1,47 @@
+{
+  "orderNumber": "111-8808569-8752235",
+  "currency": "CAD",
+  "region": "ON",
+  "from": {
+    "name": "KapscoMoto Warehouse",
+    "company": "KapscoMoto",
+    "address1": "410 Finley Ave",
+    "city": "Ajax",
+    "state": "ON",
+    "postalCode": "L1S 2E3",
+    "country": "CA",
+    "phone": "9055550100"
+  },
+  "to": {
+    "name": "Jafer Alhaboubi",
+    "address1": "9724 FANDANGO LN",
+    "city": "PLANO",
+    "state": "TX",
+    "postalCode": "75025",
+    "country": "US",
+    "phone": "+1 207-835-4259",
+    "is_residential": true
+  },
+  "packages": [
+    {
+      "name": "SMI6010",
+      "weightLbs": 19,
+      "lengthIn": 21,
+      "widthIn": 18.25,
+      "heightIn": 4,
+      "package_contents": "Iron Motorcycle Lift Stands"
+    }
+  ],
+  "items": [
+    {
+      "title": "Venom Motorcycle Stand Lift, Front & Rear Combo, Universal Paddock Lift Stand, F",
+      "sku": "SMI6010",
+      "quantity": 1,
+      "value": 18.88,
+      "currency": "USD",
+      "hs_code": "8425.49.00.00",
+      "country_of_origin": "CA",
+      "customs_description": "Iron Motorcycle Lift Stands"
+    }
+  ]
+}

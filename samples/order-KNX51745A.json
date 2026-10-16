@@ -1,0 +1,56 @@
+{
+  "orderNumber": "KNX51745A",
+  "currency": "CAD",
+  "from": {
+    "name": "KapscoMoto Warehouse",
+    "company": "KapscoMoto",
+    "address1": "410 Finley Ave",
+    "city": "Ajax",
+    "state": "ON",
+    "postalCode": "L1S 2E3",
+    "country": "CA",
+    "phone": "9055550100"
+  },
+  "to": {
+    "name": "Gregory Evans",
+    "address1": "600 Church Road",
+    "city": "Waterford",
+    "state": "PA",
+    "postalCode": "16441",
+    "country": "US",
+    "phone": "8149695080",
+    "is_residential": true
+  },
+  "packages": [
+    {
+      "name": "Bimini B34",
+      "weightLbs": 25.4,
+      "lengthIn": 63,
+      "widthIn": 13.5,
+      "heightIn": 4,
+      "package_contents": "Polyester Boat Bimini Top Canvas"
+    }
+  ],
+  "items": [
+    {
+      "title": "[1]B34",
+      "sku": "B34",
+      "quantity": 1,
+      "value": 25.07,
+      "currency": "USD",
+      "hs_code": "6306120000",
+      "country_of_origin": "CA",
+      "customs_description": "Polyester Boat Bimini Top Canvas"
+    },
+    {
+      "title": "KNOX Bimini TPU Enclosure - 3 Bow",
+      "sku": "U34B",
+      "quantity": 1,
+      "value": 24.69,
+      "currency": "USD",
+      "hs_code": "6307909891",
+      "country_of_origin": "CN",
+      "customs_description": "Polyester Bimini Top Enclosure Canvas"
+    }
+  ]
+}
